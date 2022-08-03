@@ -1,5 +1,2 @@
 # VENV Environment
-Include/
-Lib/
-Scripts/
-pyvenv.cfg
+flaskapp/
